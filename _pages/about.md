@@ -15,7 +15,7 @@ Naturally curious and driven by innovation. I thrive on new challenges and am co
 
 As a Data Scientist, I enjoy solving complex problems with data, whether it's creating a music recommender system or developing a pneumonia classifier using convolutional neural networks. I am passionate about leveraging AI and machine learning to create impactful solutions. I have worked on projects involving Large Language Models (LLM), advanced visualizations in D3, and the application of knowledge graphs.
 
-I hold a Master's degree in Data Science and have completed over 70 online courses in various areas related to data science, machine learning, and deep learning. My continuous quest for knowledge enables me to tackle diverse challenges and contribute to the advancement of AI technologies.
+I hold a Master's degree in Data Science and have completed over 70 online courses in various areas related to data science, machine learning, and deep learning. My continuous quest for knowledge enables me to tackle diverse challenges and contribute with solutions implementing AI technologies.
 
 With more than two and a half years of work experience in the field, I have been involved in projects that include advanced analysis, predictive modeling, and the development of machine learning models. My work typically includes creating interactive data visualizations, implementing machine learning algorithms, and exploring innovative solutions with AI.
 
