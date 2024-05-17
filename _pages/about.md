@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist
+
 
 # About Me
 
