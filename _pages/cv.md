@@ -9,35 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Skills
 
-### Languages and Packages
-Python, R, SAS, JavaScript, VBA, C, Matlab  
-Tableau, D3, Matplotlib, ggplot2, Streamlit  
-Pandas, Numpy, Scikit-Learn, SciPy, Tidyverse, Regex, NLTK, spaCy, OpenCV, Selenium, BeautifulSoup  
-Tensorflow, Pytorch, Keras, Langchain, llamaIndex, Ollama  
-Git, Github, Latex
-
-### Technical Skills
-- Regression Models
-- Classification Models
-- Clustering Algorithms
-- Bayesian Statistics
-- Time Series
-- Statistical Models, Inferential Statistics, Generalized Linear Models
-- Recommender Systems
-- Reinforcement Learning
-- Deep Learning: Convolutional Neural Networks, Recurrent Neural Networks, Boltzmann Machines, AutoEncoders, Transfer Learning, Graph Neural Networks
-- Generative Models, LLM, Prompt Engineering
-- Knowledge Graphs, Graph Theory
-- Exploratory Data Analysis
-- Data Collection: Web Scraping
-- Data Bases: SQL, MongoDB, Neo4J, Pinecone
-- Computer Vision
-- Audio Signal Processing
-- NLP, Information Retrieval
-
----
 
 ## Education
 
@@ -82,6 +54,36 @@ September 2017 – September 2018 | Guatemala, GT
 
 - Developed and maintained automation systems for report generation and data management to handle complex healthcare data reports.
 - **Technologies Used:** Python, VBA for Microsoft Excel and Word, JavaScript, Google Apps Script.
+
+---
+
+## Skills
+
+### Languages and Packages
+Python, R, SAS, JavaScript, VBA, C, Matlab  
+Tableau, D3, Matplotlib, ggplot2, Streamlit  
+Pandas, Numpy, Scikit-Learn, SciPy, Tidyverse, Regex, NLTK, spaCy, OpenCV, Selenium, BeautifulSoup  
+Tensorflow, Pytorch, Keras, Langchain, llamaIndex, Ollama  
+Git, Github, Latex
+
+### Technical Skills
+- Regression Models
+- Classification Models
+- Clustering Algorithms
+- Bayesian Statistics
+- Time Series
+- Statistical Models, Inferential Statistics, Generalized Linear Models
+- Recommender Systems
+- Reinforcement Learning
+- Deep Learning: Convolutional Neural Networks, Recurrent Neural Networks, Boltzmann Machines, AutoEncoders, Transfer Learning, Graph Neural Networks
+- Generative Models, LLM, Prompt Engineering
+- Knowledge Graphs, Graph Theory
+- Exploratory Data Analysis
+- Data Collection: Web Scraping
+- Data Bases: SQL, MongoDB, Neo4J, Pinecone
+- Computer Vision
+- Audio Signal Processing
+- NLP, Information Retrieval
 
 ---
 
