@@ -24,7 +24,7 @@ author:
   avatar           : "pp.jfif"
   name             : "Ennio Guzmán"
   pronouns         : # example: "she/her"  
-  bio              : Data Scientist# "Short biography for the left-hand sidebar"
+  bio              : Data Scientist # "Short biography for the left-hand sidebar"
   location         : "Milan, Italy"
   employer         : # "Red Brick University"
   uri              : # URL
