@@ -168,10 +168,8 @@ Git, Github, Latex
 
 ### Software Engineering
 - Learn Python Programming Masterclass
-- Complete Python 3 Course from A to Z
 - Python Beyond the Basics - Object-Oriented Programming
 - Modern JavaScript: A Guide to Mastering the Language
-- Modern JavaScript (Complete guide, from Novice to Ninja)
 - Advanced Microsoft Word VBA Macro Programming
 - Microsoft Word VBA Macro Programming - Introduction
 - GIT + GitHub: A complete version control system from zero
