@@ -126,6 +126,7 @@ Git, Github, Latex
 - Build Data Visualizations with D3.js Firebase
 - Tableau A-Z: Hands-On Tableau Training for Data Science
 - Mastering Data Visualization in D3.js
+- Python Data Visualization: Dashboards with Plotly & Dash
 
 ### Web Scraping
 - Modern Web Scraping with Python using Scrapy Splash Selenium
