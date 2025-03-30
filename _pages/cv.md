@@ -13,6 +13,13 @@ redirect_from:
 
 ## Education
 
+
+**MS, Biostatistics**  
+*Università degli Studi di Milano-Bicocca*  
+October 2024 - Present | Milan, Italy
+
+
+
 **MS, Data Science**  
 *Università degli Studi di Milano-Bicocca*  
 October 2021 - March 2024 | Milan, Italy
@@ -29,24 +36,26 @@ October 2021 - March 2024 | Milan, Italy
 
 ## Experience
 
-**Research Assistant Internship**  
+**Research Assistant**  
 *Università degli Studi di Milano-Bicocca*  
 February 2023 – January 2024 | Milan, Italy
 
-- Focused on the analysis, exploration, and visualization of metabolic models SBML, converting into knowledge graphs for enhanced data analysis.
-- Experimented with various knowledge graph applications. Conducted diverse graph analyses to deepen insights from knowledge graphs.
-- Developed advanced D3-based visualizations tailored for biologists, including creative and interactive subgraph visualizations to facilitate understanding and exploration of complex metabolic pathways.
-- Engineered an analytical tool using a chatbot powered by LLM and prompt engineering techniques for navigating and analyzing knowledge graphs of metabolic models, using RAG prompt engineering technique, incorporating subgraph visualizations for dynamic user interaction.
-- **Technologies Used:** Python, BeautifulSoup, Selenium, NLTK, spaCy, Regex, D3.js, Flask, Pyvis, NetworkX, Neo4J, Langchain, Streamlit.
+* Analyzed, explored, and visualized metabolic models in SBML format, converting them into knowledge graphs for improved data analysis.
+- Developed advanced D3.js-based visualizations for biologists to explore complex metabolic pathways.
+- Created an analytical tool using an LLM-powered chatbot and prompt engineering techniques for navigating knowledge graphs with dynamic subgraph visualizations.
+- Technologies: Python, BeautifulSoup, Selenium, NLTK, spaCy, Regex, D3.js, Flask, Pyvis, NetworkX, Neo4J, Langchain, Streamlit.
 
 **Data Scientist**  
 *CATIE*  
-July 2020 – May 2022 | Guatemala, GT
+July 2020 – January 2023 | Guatemala, GT
 
-- Conducted comprehensive data analysis, exploration, and visualization. Designed dynamic, autonomously updating dashboards for real-time data presentation.
-- Applied both supervised and unsupervised machine learning techniques for data classification tasks, enhancing predictive analytics capabilities.
-- Automated data collection processes through advanced web scraping techniques.
-- **Technologies Used:** Python, JavaScript, D3.js, VBA, Tableau, Excel, Tensorflow, Scikit-Learn, Pandas, Numpy, NLTK, spaCy, Selenium, BeautifulSoup, MongoDB.
+- Conducted data analysis and visualization, designing dynamic dashboards for real-time data monitoring.
+- Implemented supervised and unsupervised machine learning techniques for predictive analytics and data classification.
+- Automated data collection and processing using web scraping techniques to streamline workflows.
+- Developed strategies to enhance model explainability, making results more interpretable.
+- Developed time series models for forecasting and trend analysis.
+- Implemented MLOps pipelines on AWS for continuous deployment and monitoring.
+- Technologies: Python, JavaScript, D3.js, VBA, Tableau, Excel, SQL, MongoDB, Tensorflow, Scikit-Learn, Pandas, Numpy, NLTK, spaCy, Selenium, BeautifulSoup, AWS SageMaker, MLflow, Statsmodels .
 
 **Data Analyst**  
 *Freelance*  
